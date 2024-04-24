@@ -1,0 +1,8 @@
+dist
+data
+build
+venv
+.venv
+mars-ground.png
+setup.py
+pygame_magics.egg-info
